@@ -15,3 +15,5 @@ Programas en c# utilizando pipe [ | ]
 
 //4. Un programa que lea numeros de la entrada estandar e imprima su promedio (media aritmetica) 	
 //El "fin" es la lectura de una linea en blanco / nula
+
+https://www.youtube.com/watch?v=hPeKN8uDsQA&t=937s
